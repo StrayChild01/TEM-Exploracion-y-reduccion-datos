@@ -1,4 +1,4 @@
-# Componentes principales:
+# Unidad 2: Componentes principales
 
 - [Lectura](componentesPrincipales.pdf)
 - [Ejercicios en R](ACPenR.pdf)

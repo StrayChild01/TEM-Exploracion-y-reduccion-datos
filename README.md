@@ -11,8 +11,8 @@
   
 - Unidad 3. [Análisis de Factores Comunes](Unidad3/Unidad3.md)
 
-  3.1  Noción de factor
-  3.2  Planteamiento del modelo de factores
-  3.3  Métodos de extracción
-  3.4  Comunalidades y especificidades
+  3.1  Noción de factor  
+  3.2  Planteamiento del modelo de factores  
+  3.3  Métodos de extracción  
+  3.4  Comunalidades y especificidades  
   3.5  Métodos de rotación

@@ -16,7 +16,7 @@
 
   - 2
   - 3
-  - 4
+  - **4**
   - 5
 
 2.- Las variables resultantes del Análisis de Componentes Principales:
@@ -24,20 +24,23 @@
 (Seleccione una o más de una)
 
   - Deben presentar una alta correlación entre ellas
-  - Son combinaciones lineales normalizadas de las variables originales
-  - Intentan explicar la mayor cantidad de varianza contenida en la estructura
+  - **Son combinaciones lineales normalizadas de las variables originales**
+  - **Intentan explicar la mayor cantidad de varianza contenida en la estructura**
   
 3.- El objetivo principal del Análisis de Componentes Principales es:
   - Simplificar la estructura de los datos.
   - Explicar el comportamiento de ciertas variables en función de otras.
   - Realizar una clasificación de los individuos.
-  - Analizar la interdependencia de las variables bajo estudio.
+  - **Analizar la interdependencia de las variables bajo estudio.**
   
 4.- El Análisis de Componentes Principales tiene dentro de sus objetivos:
+
+(Seleccione una o más de una)
+
   - Servir como elemento de validación del supuesto de independencia de las variables.
-  - Reducir el número de variables originales cuando alguna de ellas no aporten información significada para explicar la variabilidad.
+  - **Reducir el número de variables originales cuando alguna de ellas no aporten información significada para explicar la variabilidad.**
   - Establecer una regla que permita clasificar a los individuos u observaciones de una investigación futura.
-  - Analizar la forma en que se relaionan las variables medidas en el estudio.
+  - **Analizar la forma en que se relacionan las variables medidas en el estudio.**
 
 5.- De la siguiente tabla de eigenvalores, ¿cuál de las opciones que se muestran corresponde a la ecuación que representa al segundo componente principal?
 

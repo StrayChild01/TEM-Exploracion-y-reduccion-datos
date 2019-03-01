@@ -4,14 +4,14 @@ Determine si las afirmaciones siguientes son VERDADERAS o FALSAS:
 
   - El Análisis de Factores Comunes y el Análisis de Componentes Principales buscan explicar la estructura de un conjunto de datos 
   - El Análisis de Factores es construido para interpretar la varianza total del conjunto de variables observadas
-  - La correlación entre las variables observadas es un aspecto fundamental para el Análisis de Factores Comunes
+  - **La correlación entre las variables observadas es un aspecto fundamental para el Análisis de Factores Comunes**
   - El Análisis de Factores Comunes genera un conjunto de ecuaciones de regresión en donde las variables observadas son consideradas como las variables independientes de la ecuación
-  - El Análisis Factorial Exploratorio es recomendado cuando no se tienen un conocimiento previo de la estructura
+  - El Análisis Factorial Exploratorio es recomendado cuando no se tiene un conocimiento previo de la estructura
   
 Al rotar las cargas factoriales se busca principalmente:
 
   - Tratar de incluir un porcentaje adicional a la varianza explicada por el modelo sin rotar
-  - Facilitar la interpretación de los factores sin alterar la proporción de la varianza comun explicada
+  - **Facilitar la interpretación de los factores sin alterar la proporción de la varianza comun explicada**
   - Aplicar una prueba capaz de determinar la relevancia del modelo factorial
   - Reducir el número de factores inicialmente considerados
  
@@ -26,7 +26,7 @@ De la siguiente tabla, cual es valor de la comunalidad y la varianza específica
 | Var 5 | 0.62     | 0.551    | -0.084   | -0.419   |
 
   - Comunalidad = 0.87; Varianza específica = 0.13
-  - Comunalidad = 0.83; Varianza específica = 0.16
+  - **Comunalidad = 0.83; Varianza específica = 0.16**
   - Comunalidad = 0.61; Varianza específica = 0.39
   - Comunalidad = 0.81; Varianza específica = 0.19
   
@@ -47,6 +47,6 @@ De acuerdo a la gráfica siguiente, ¿qué tipo de rotación fue realizada?
 ![rotacion](imagenes/rotacion.png "rotacion")
 
   - Oblicua
-  - Ortogonal
+  - **Ortogonal**
   - Isobárica
   - Complementaria

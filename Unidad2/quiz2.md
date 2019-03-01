@@ -37,7 +37,7 @@
 
 (Seleccione una o más de una)
 
-  - Servir como elemento de validación del supuesto de independencia de las variables.
+  - **Servir como elemento de validación del supuesto de independencia de las variables.**
   - **Reducir el número de variables originales cuando alguna de ellas no aporten información significada para explicar la variabilidad.**
   - Establecer una regla que permita clasificar a los individuos u observaciones de una investigación futura.
   - **Analizar la forma en que se relacionan las variables medidas en el estudio.**

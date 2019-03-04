@@ -2,11 +2,11 @@
 
 Determine si las afirmaciones siguientes son VERDADERAS o FALSAS:
 
-  - El Análisis de Factores Comunes y el Análisis de Componentes Principales buscan explicar la estructura de un conjunto de datos 
+  - **El Análisis de Factores Comunes y el Análisis de Componentes Principales buscan explicar la estructura de un conjunto de datos **
   - El Análisis de Factores es construido para interpretar la varianza total del conjunto de variables observadas
   - **La correlación entre las variables observadas es un aspecto fundamental para el Análisis de Factores Comunes**
   - El Análisis de Factores Comunes genera un conjunto de ecuaciones de regresión en donde las variables observadas son consideradas como las variables independientes de la ecuación
-  - El Análisis Factorial Exploratorio es recomendado cuando no se tiene un conocimiento previo de la estructura
+  - **El Análisis Factorial Exploratorio es recomendado cuando no se tiene un conocimiento previo de la estructura**
   
 Al rotar las cargas factoriales se busca principalmente:
 
@@ -42,6 +42,11 @@ De la siguiente tabla de cargas rotadas, cuales son las variables que presentan 
 | Razonamiento          | 0.059     | 0.821    |
 | Capacidad intelectual |     0.240 |    0.775 |
 
+  - Estabilidad emocional, ansiedad inhibidora, atrevimiento, control emocional
+  - **Estabilidad emocional, preocupación, ansiedad inhibidora, atrevimiento, control emocional**
+  - Estabilidad emocional, preocupación, atrevimiento, control emocional
+  - Estabilidad emocional, preocupación, ansiedad inhibidora, atrevimiento, capacidad intelectual
+
 De acuerdo a la gráfica siguiente, ¿qué tipo de rotación fue realizada?
 
 ![rotacion](imagenes/rotacion.png "rotacion")
@@ -50,3 +55,32 @@ De acuerdo a la gráfica siguiente, ¿qué tipo de rotación fue realizada?
   - **Ortogonal**
   - Isobárica
   - Complementaria
+  
+El término COMUNALIDAD se refiere a:
+
+  - **Porción de la varianza de una variable que es explicada por los factores comunes**
+  - Porción de la varianza propia de la variable que los factores no explican
+  - La varianza acumulada del que contiene el modelo
+  - La parte de la varianza correspondiente al error originado por la recolección de los datos
+  
+¿Cuál es el modelo factorial que representa a la siguiente tabla de cargas?
+
+| var   | Factor 1 | Factor 2 | Comunalidad |
+|-------|----------|----------|-------------|
+| Var 1 | 0.56     | 0.82     | 0.98        |
+| Var 2 | 0.78     | -0.53    | 0.88        |
+| Var 3 | 0.65     | 0.75     | 0.98        |
+
+  - Var 1 = 0.98 F1 + 0.02 F2 + u1; Var 2 = 0.88 F1 + 0.12 F2 + u2; Var 3 = 0.98 F1 + 0.02 F2 + u3
+  - **Var 1 = 0.56 F1 + 0.82 F2 + u1; Var 2 = 0.78 F1 – 0.53 F2 + u2; Var 3 = 0.65 F1 + 0.75 F2 + u3**
+  - Var 1 = 0.56 F1 + 0.82 F2 + 0.98; Var 2 = 0.78 F1 – 0.53 F2 + 0.88; Var 3 = 0.65 F1 + 0.75 F2 + 0.98 
+
+De la siguiente gráfica factorial, ¿cuáles son las variables que tienen una correlación fuerte con el primer factor?
+
+![correlacion](imagenes/correlacion.png "correlacion")
+
+Seleccione una:
+  - **A, B, C, D, E**
+  - F, G
+  - A, D, E
+  - B, C

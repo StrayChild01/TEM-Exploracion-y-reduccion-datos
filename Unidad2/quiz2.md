@@ -70,8 +70,8 @@
   (1)
   - Matriz de covarianzas.
   - Matriz ortogonal.  
-  - **Matriz inversa**.
-  - Matriz de correlaciones.
+  - Matriz inversa.
+  - **Matriz de correlaciones**.
   
     (2)
   - Complementar.

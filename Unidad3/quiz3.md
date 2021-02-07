@@ -2,7 +2,7 @@
 
 Determine si las afirmaciones siguientes son VERDADERAS o FALSAS:
 
-  - **El Análisis de Factores Comunes y el Análisis de Componentes Principales buscan explicar la estructura de un conjunto de datos **
+  - **El Análisis de Factores Comunes y el Análisis de Componentes Principales buscan explicar la estructura de un conjunto de datos**
   - El Análisis de Factores es construido para interpretar la varianza total del conjunto de variables observadas
   - **La correlación entre las variables observadas es un aspecto fundamental para el Análisis de Factores Comunes**
   - El Análisis de Factores Comunes genera un conjunto de ecuaciones de regresión en donde las variables observadas son consideradas como las variables independientes de la ecuación
@@ -16,6 +16,8 @@ Al rotar las cargas factoriales se busca principalmente:
   - Reducir el número de factores inicialmente considerados
  
 De la siguiente tabla, cual es valor de la comunalidad y la varianza específica para la variable  1:
+
+NOTA: La comunalidad se calcula Factor1^2 + Factor2^2 + ... + FactorN^2
 
 | Var   | Factor 1 | Factor 2 | Factor 3 | Factor 4 |
 |-------|----------|----------|----------|----------|
